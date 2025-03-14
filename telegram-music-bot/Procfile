@@ -1,1 +1,1 @@
-worker: python start.py
+worker: pip install --no-cache-dir --force-reinstall -r requirements.txt && python start.py
