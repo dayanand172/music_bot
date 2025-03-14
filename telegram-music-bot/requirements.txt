@@ -1,0 +1,6 @@
+python-telegram-bot==20.0
+pytgcalls
+yt-dlp
+requests==2.31.0
+python-dotenv==1.0.0
+telethon==1.28.0
